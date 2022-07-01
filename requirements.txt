@@ -1,0 +1,4 @@
+boto3==1.22.1
+s3fs
+pandas
+requests
